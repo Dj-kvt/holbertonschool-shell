@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir /tmp/u; mv [A-B] */tmp/u
+{mkdir /tmp/u; mv [A-B] */tmp/u }
