@@ -1,0 +1,2 @@
+#!/bin/bash
+print(*[i+j for i in 'abcdefghijklmnopqrstuvwxyz' for j in 'abcdefghijklmnopqrstuvwxyz' if i+j != 'oo'], sep='\n')
